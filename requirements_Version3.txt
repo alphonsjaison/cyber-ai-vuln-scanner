@@ -1,0 +1,10 @@
+# Core
+python>=3.8
+
+# Optional for ML/NLP
+scikit-learn
+numpy
+pandas
+# Uncomment below if you plan to use NLP
+# spacy
+# transformers
